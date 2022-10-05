@@ -1,0 +1,39 @@
+form {
+    display: block;
+    margin-top: 0em;
+    margin-block-end: 1em;
+}
+div {
+    display: block;
+    text-align: -webkit-center;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: center;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
